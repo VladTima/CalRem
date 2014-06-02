@@ -11,3 +11,6 @@
 
 Распространение
 - бесплатно
+
+ = <a href="https://github.com/VladTima/CalRem/issues/1">Комментарии</a> = 
+ 
